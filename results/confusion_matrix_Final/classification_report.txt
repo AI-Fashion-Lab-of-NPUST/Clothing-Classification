@@ -1,0 +1,13 @@
+Accuracy: 0.7190
+
+              precision    recall  f1-score   support
+
+     Tshirts     0.7646    0.9069    0.8297       419
+      Shirts     0.0952    0.2222    0.1333        18
+      Hoodie     0.3857    0.3750    0.3803        72
+     Jackets     0.8416    0.5924    0.6953       314
+        Tops     0.7000    0.4118    0.5185        17
+
+    accuracy                         0.7190       840
+   macro avg     0.5574    0.5017    0.5114       840
+weighted avg     0.7453    0.7190    0.7197       840

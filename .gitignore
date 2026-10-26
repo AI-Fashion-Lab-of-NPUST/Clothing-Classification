@@ -1,0 +1,18 @@
+# Exclude the training dataset folder inside data/
+data/filtered_5_classes(Training)/
+
+# Exclude LAMBI
+LAMBI/
+
+# Exclude development history
+development_history/
+
+# Exclude Python environments and cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Temporary files
+.DS_Store
+Thumbs.db
